@@ -18,7 +18,8 @@
   "description": "A bunch of shared default values.",
   "type": "library",
   "hideInEditor": false,
-  "dependencies": {
-    "com.commongames.utilities.singletons": "1.1.0"
+  "gitDependencies":
+  {
+    "com.commongames.utilities.singletons": "https://github.com/Common-Games/Utilities.Singletons.git"
   }
 }
